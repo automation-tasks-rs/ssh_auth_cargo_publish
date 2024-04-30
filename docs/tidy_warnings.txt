@@ -805,10 +805,10 @@ line 9 column 8992 - Warning: discarding unexpected </span>
 line 9 column 9267 - Warning: missing </summary> before <section>
 line 9 column 9937 - Warning: discarding unexpected </summary>
 line 9 column 10014 - Warning: missing </summary> before <section>
-line 9 column 10521 - Warning: discarding unexpected </summary>
-line 9 column 10676 - Warning: missing </summary> before <section>
-line 9 column 11364 - Warning: discarding unexpected </summary>
-line 9 column 11441 - Warning: missing </summary> before <section>
+line 9 column 10525 - Warning: discarding unexpected </summary>
+line 9 column 10680 - Warning: missing </summary> before <section>
+line 9 column 11368 - Warning: discarding unexpected </summary>
+line 9 column 11445 - Warning: missing </summary> before <section>
 line 9 column 11960 - Warning: discarding unexpected </summary>
 line 9 column 12115 - Warning: missing </summary> before <section>
 line 9 column 12829 - Warning: discarding unexpected </summary>
@@ -902,8 +902,8 @@ line 9 column 8249 - Warning: trimming empty <summary>
 line 9 column 8811 - Warning: trimming empty <span>
 line 9 column 9267 - Warning: trimming empty <summary>
 line 9 column 10014 - Warning: trimming empty <summary>
-line 9 column 10676 - Warning: trimming empty <summary>
-line 9 column 11441 - Warning: trimming empty <summary>
+line 9 column 10680 - Warning: trimming empty <summary>
+line 9 column 11445 - Warning: trimming empty <summary>
 line 9 column 12115 - Warning: trimming empty <summary>
 line 9 column 12906 - Warning: trimming empty <summary>
 line 9 column 16070 - Warning: trimming empty <summary>
