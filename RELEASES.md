@@ -6,9 +6,11 @@ The library releases will be published on crates.io.
 The cargo-auto automation task will use the content of the section `## Unreleased` to create
 the GitHub release consistently with this file.  
 The ongoing changes that are not released, are visible in the git commits and GitHub pull requests.  
-The TODO section is part of the [README.md](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish).  
+The TODO section is part of the [README.md](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish).  
 
 ## Unreleased
+
+- badge
 
 ## Version 1.0.3 (2024-04-30)
 

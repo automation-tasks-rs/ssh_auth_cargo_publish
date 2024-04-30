@@ -1,6 +1,6 @@
 [package]
 name = "ssh_auth_cargo_publish"
-version = "1.0.3"
+version = "1.0.4"
 description = "Store and use encrypted secret_token for crates.io with SSH key"
 authors = ["bestia.dev"]
 homepage = "https://bestia.dev"

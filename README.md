@@ -5,7 +5,7 @@
 [//]: # (auto_cargo_toml_to_md start)
 
 **Store and use encrypted secret_token for crates.io with SSH key**  
-***version: 1.0.3 date: 2024-04-30 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish)***
+***version: 1.0.4 date: 2024-04-30 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish)***
 
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
@@ -13,8 +13,13 @@
 
 [//]: # (auto_cargo_toml_to_md end)
 
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish/blob/main/LICENSE)
-  [![Rust](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish/workflows/rust_fmt_auto_build_test/badge.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish/)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/blob/main/LICENSE)
+ [![Rust](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/workflows/rust_fmt_auto_build_test/badge.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
+ [![crates.io](https://img.shields.io/crates/v/ssh_auth_cargo_publish.svg)](https://crates.io/crates/ssh_auth_cargo_publish)
+ [![Documentation](https://docs.rs/ssh_auth_cargo_publish/badge.svg)](https://docs.rs/ssh_auth_cargo_publish/)
+ [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/ssh_auth_cargo_publish/)  
+ [![Newest docs](https://img.shields.io/badge/newest_docs-blue.svg)](https://automation-tasks-rs.github.io/ssh_auth_cargo_publish/ssh_auth_cargo_publish/index.html)
+ ![ssh_auth_cargo_publish](https://bestia.dev/webpage_hit_counter/get_svg_image/648533659.svg)
 
 [//]: # (auto_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-266-green.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
