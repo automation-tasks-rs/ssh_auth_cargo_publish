@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"ssh_auth_cargo_publish_lib":[["impl SshContextTrait for <a class=\"struct\" href=\"ssh_auth_cargo_publish_lib/secrets_always_local_mod/ssh_mod/struct.SshContext.html\" title=\"struct ssh_auth_cargo_publish_lib::secrets_always_local_mod::ssh_mod::SshContext\">SshContext</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

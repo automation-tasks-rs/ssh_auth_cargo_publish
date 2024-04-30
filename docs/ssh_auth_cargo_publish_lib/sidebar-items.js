@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BLUE","GREEN","RED","RESET","YELLOW"],"fn":["publish"],"mod":["crates_mod","error_mod","secrets_always_local_mod"]};

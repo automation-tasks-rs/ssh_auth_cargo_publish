@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["ssh_auth_cargo_publish","ssh_auth_cargo_publish_lib"];
