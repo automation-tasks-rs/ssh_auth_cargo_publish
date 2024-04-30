@@ -4,20 +4,20 @@
 //! # ssh_auth_cargo_publish
 //!
 //! **Store and use encrypted secret_token for crates.io with SSH key**  
-//! ***version: 1.0.2 date: 2024-04-30 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish)***
+//! ***version: 1.0.3 date: 2024-04-30 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish)***
 //!
 //!  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
 //!  ![rustlang](https://img.shields.io/badge/rustlang-orange)
-//!  ![crates.io](https://img.shields.io/badge/crates.io-orange)
+//!  ![crates-io](https://img.shields.io/badge/crates_io-orange)
 //!
 //!   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish/blob/main/LICENSE)
 //!   [![Rust](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish/workflows/rust_fmt_auto_build_test/badge.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_cargo_publish/)
 //!
-//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-266-green.svg)]()
-//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-270-blue.svg)]()
-//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-56-purple.svg)]()
-//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)]()
-//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-184-orange.svg)]()
+//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-266-green.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
+//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-264-blue.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
+//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-56-purple.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
+//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
+//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-184-orange.svg)](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish/)
 //!
 //! Hashtags: #maintained #ready-for-use #rustlang #automation #workflow  
 //! My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).  

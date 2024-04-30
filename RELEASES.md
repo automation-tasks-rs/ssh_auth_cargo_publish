@@ -10,6 +10,8 @@ The TODO section is part of the [README.md](https://github.com/CRUSTDE-Container
 
 ## Unreleased
 
+- crates-io keyword
+
 ## Version 0.0.1
 
 - Rust project created with `cargo auto new_cli ssh_auth_cargo_publish`

@@ -1,6 +1,6 @@
 [package]
 name = "ssh_auth_cargo_publish"
-version = "1.0.2"
+version = "1.0.3"
 description = "Store and use encrypted secret_token for crates.io with SSH key"
 authors = ["bestia.dev"]
 homepage = "https://bestia.dev"
@@ -9,7 +9,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/automation-tasks-rs/ssh_auth_cargo_publish"
 # Keyword must be only one word: lowercase letters, hyphens(-) or numbers, less then 35 characters, at most 5 keywords per crate
-keywords = ["work-in-progress", "rustlang", "crates.io"]
+keywords = ["work-in-progress", "rustlang", "crates-io"]
 categories = ["command-line-interface"]
 # publish as a cargo tool. Only this files.
 publish = true
