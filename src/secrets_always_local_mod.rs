@@ -379,7 +379,7 @@ pub(crate) mod crates_io_mod {
                 eprintln!("{RED}Security vulnerability: Found the cargo file with plain-text secret_token: {file_auth_expanded}. It would be better to inspect and remove it. {RESET}")
             }
 
-            let encrypted_string_file_path = camino::Utf8Path::new("~/.ssh/crates_io_secret_token_encrypted.txt");
+            let encrypted_string_file_path = camino::Utf8Path::new("~/.ssh/crates_io_secret_token_ssh_1.enc");
             let encrypted_string_file_path_expanded = cargo_auto_encrypt_secret_lib::file_path_home_expand(encrypted_string_file_path);
 
             let identity_private_file_path = camino::Utf8Path::new("~/.ssh/crates_io_secret_token_ssh_1");
