@@ -8,7 +8,7 @@
 **Store and use encrypted secret_token for crates.io with SSH key**  
 ***version: 1.0.4 date: 2024-04-30 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish)***
 
- ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
+ ![obsolete](https://img.shields.io/badge/obsolete-red)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![crates-io](https://img.shields.io/badge/crates_io-orange)
 
@@ -34,6 +34,11 @@
 Hashtags: #maintained #ready-for-use #rustlang #automation #workflow  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).  
 I recommend using the [CRUSTDE - Containerized Rust Development Environment](https://github.com/CRUSTDE-ContainerizedRustDevEnv/crustde_cnt_img_pod) to write Rust projects on Linux, isolated from your system.  
+
+## OBSOLETE
+
+This will not be a separate crate anymore. This will be a module file that the developer copy-paste into his source code into automation_tasks_rs folder.
+I decided that the developer must have complete control over this code in its own project.
 
 ## Motivation
 
