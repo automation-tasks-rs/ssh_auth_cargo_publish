@@ -2,7 +2,7 @@
 name = "ssh_auth_cargo_publish"
 # binary executable does not need to be SemVer, because nobody depends on it
 version = "1.0.4"
-description = "Store and use encrypted secret_token for crates.io with SSH key"
+description = "OBSOLETE: Store and use encrypted secret_token for crates.io with SSH key"
 authors = ["bestia.dev"]
 homepage = "https://bestia.dev"
 edition = "2021"
