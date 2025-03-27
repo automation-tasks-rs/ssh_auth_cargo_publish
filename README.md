@@ -5,7 +5,7 @@
 
 [//]: # (auto_cargo_toml_to_md start)
 
-**Store and use encrypted secret_token for crates.io with SSH key**  
+**OBSOLETE: Store and use encrypted secret_token for crates.io with SSH key**  
 ***version: 1.0.4 date: 2024-04-30 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation-tasks-rs/ssh_auth_cargo_publish)***
 
  ![obsolete](https://img.shields.io/badge/obsolete-red)
